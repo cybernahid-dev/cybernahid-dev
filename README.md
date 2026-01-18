@@ -70,9 +70,9 @@ I focus on **automation, Termux & Firebase apps, and open-source contributions**
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-twitter)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=for-the-badge&logo=about.me)](nahidhasanbct.rf.gd)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nahid-hasan-b06b78378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/nahidhasanbct)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=for-the-badge&logo=about.me)](https://nahidhasanbct.rf.gd)  
 
 ---
 

@@ -1,79 +1,63 @@
-# Hi, I'm Nahid Hasan 👋
-Cybersecurity Expert | Open-Source Developer | Automation & AI Tools Creator
+# ⚡ Welcome to Nahid's Digital Command Center ⚡
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&width=435&lines=Cybersecurity+Expert;Open-Source+Developer;Automation+%26+AI+Architect;Building+the+Future+with+Code" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🔭 About Me
-I'm a passionate developer building **futuristic tools, AI assistants, and cyber security solutions**.  
-I focus on **automation, Termux & Firebase apps, and open-source contributions**.  
+### 🔭 The Mission
+I am a **Cybersecurity Architect** and **Full-Stack Automation Engineer** dedicated to building high-performance, open-source tools. My work sits at the intersection of AI-driven automation and robust security frameworks.
 
-- 🌱 Currently developing **AI tools & next-gen automation systems**  
-- 💻 Skilled in **Python, JavaScript, Android, GitHub Actions, OpenRouter API**  
-- 🚀 Building **StreamX Ultra, Astra, BCP-CyberSuite, BCP-Shell** and more  
-
----
-
-## 🛠️ Tech & Tools
-![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=for-the-badge&logo=firebase)
-![Android](https://img.shields.io/badge/-Android-333333?style=for-the-badge&logo=android)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333333?style=for-the-badge&logo=githubactions)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
-![OpenRouter API](https://img.shields.io/badge/-OpenRouter-333333?style=for-the-badge&logo=openai)
+* **🌱 Current Focus:** Scaling **StreamX Ultra** and refining **Astra's** AI reasoning.
+* **🚀 Philosophy:** "Automate the mundane to engineer the extraordinary."
+* **💻 OS Environment:** Primarily **Termux**, **Linux**, and **Android**.
 
 ---
 
-## 📂 Featured Projects
+### 🛠️ Tech Stack & Arsenal
 
-### 1️⃣ StreamX Ultra
-**Live TV & IPTV Platform** – Full-featured streaming app with automated updates.  
-- 🔗 [Repository](https://github.com/cybernahid-dev/StreamX-Ultra)  
-- ⚡ Features: Live TV, IPTV channels, Auto-update, Firebase integration  
-- 🖼️ Demo Screenshot/GIF:  
-![StreamX Ultra](https://via.placeholder.com/600x300.png?text=StreamX+Ultra+Demo)
-
----
-
-### 2️⃣ Astra
-**Terminal AI Developer Assistant** – Automate coding tasks & API interactions using OpenRouter API.  
-- 🔗 [Repository](https://github.com/cybernahid-dev/Astra)  
-- ⚡ Features: AI code suggestions, Terminal-based assistant, OpenRouter API powered  
-- 🖼️ Demo Screenshot/GIF:  
-![Astra](https://via.placeholder.com/600x300.png?text=Astra+AI+Assistant)
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| **Backend & AI** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![OpenRouter](https://img.shields.io/badge/OpenRouter-API-blueviolet?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Cybersecurity** | ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square) ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square) ![PenTesting](https://img.shields.io/badge/PenTesting-RedTeam-red?style=flat-square) |
 
 ---
 
-### 3️⃣ BCP-CyberSuite
-**Powerful Cybersecurity Toolkit** – Our team’s suite for penetration testing, vulnerability analysis, and automation.  
-- 🔗 [Repository](https://github.com/cybernahid-dev/BCP-CyberSuite)  
-- ⚡ Features: Network scanning, Exploit automation, Reporting tools  
-- 🖼️ Demo Screenshot/GIF:  
-![BCP-CyberSuite](https://via.placeholder.com/600x300.png?text=BCP-CyberSuite)
+### 📂 Featured Projects
+
+#### 📺 [StreamX Ultra](https://github.com/YOUR_GITHUB_USERNAME/StreamX-Ultra)
+> **Next-Gen IPTV Ecosystem.** A full-featured streaming platform with automated M3U8 updates and Firebase synchronization.
+* **Tech:** Python, Firebase, IPTV Protocols.
+
+#### 🤖 [Astra AI](https://github.com/YOUR_GITHUB_USERNAME/Astra)
+> **Terminal-based AI Developer.** Your autonomous coding partner using OpenRouter API to write, debug, and optimize code directly from the shell.
+* **Tech:** Python, JavaScript, OpenRouter API.
+
+#### 🛡️ [BCP-CyberSuite](https://github.com/YOUR_GITHUB_USERNAME/BCP-CyberSuite)
+> **Offensive Security Toolkit.** A comprehensive suite for vulnerability analysis, network exploitation, and automated reporting.
+* **Tech:** Rust, C++, Python.
+
+#### 🐚 [BCP-Shell](https://github.com/YOUR_GITHUB_USERNAME/BCP-Shell)
+> **The Power User's Environment.** A custom, hardened shell designed for cybersecurity workflows and rapid script execution.
+* **Tech:** Kotlin, Shell Scripting.
 
 ---
 
-### 4️⃣ BCP-Shell
-**Custom Powerful Shell for BCP Team** – Terminal tool designed for advanced workflows & automation.  
-- 🔗 [Repository](https://github.com/cybernahid-dev/BCP-Shell)  
-- ⚡ Features: Custom commands, Task automation, Security tools integration  
-- 🖼️ Demo Screenshot/GIF:  
-![BCP-Shell](https://via.placeholder.com/600x300.png?text=BCP-Shell)
+### 📊 GitHub Pulse
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybernahid-dev&show_icons=true&theme=radical)
+### 📫 Connect With Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cybernahid-dev&layout=compact&theme=radical)
+<p align="left">
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
----
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nahid-hasan-b06b78378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/nahidhasanbct)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=for-the-badge&logo=about.me)](https://nahidhasanbct.rf.gd)  
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Code is like humor. When you have to explain it, it’s bad.” – **Cory House**

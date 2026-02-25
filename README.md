@@ -34,27 +34,27 @@ I am a **Cybersecurity Architect** and **Full-Stack Automation Engineer**. My ec
 * **Tech:** `Kotlin`, `Jetpack Compose`, `C++`, `Rust`, `Firebase`.
 
 #### 🤖 [Astra AI](https://github.com/cybernahid-dev/Astra)
-> **Terminal AI Developer Assistant.** Your autonomous coding partner for the shell. It automates coding tasks and interacts with OpenRouter API for real-time debugging.
+> **Terminal AI Developer Assistant.** Your autonomous coding partner for the shell.
 * **Tech:** `Python`, `OpenRouter API`.
 
 #### 🛡️ [BCP-CyberSuite](https://github.com/cybernahid-dev/BCP-CyberSuite)
-> **Offensive Security Toolkit.** A comprehensive Python-based suite designed for penetration testing, automated vulnerability analysis, and network exploitation.
+> **Offensive Security Toolkit.** Python-based suite for penetration testing and automated vulnerability analysis.
 * **Tech:** `Python`.
 
 #### 🐚 [BCP-Shell](https://github.com/cybernahid-dev/bcp-shell)
-> **Power-User Command Shell.** A custom terminal environment optimized for rapid automation and cybersecurity workflows.
+> **Power-User Command Shell.** Optimized for rapid automation and cybersecurity workflows.
 * **Tech:** `Pure Shell Scripting`.
 
 ---
 
 ### 📊 Real-Time GitHub Pulse
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cybernahid-dev &show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybernahid-dev &layout=compact&theme=tokyonight&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cybernahid-dev&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybernahid-dev&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybernahid-dev &theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybernahid-dev&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ I am a **Cybersecurity Architect** and **Full-Stack Automation Engineer**. My ec
 
 <p align="left">
 <a href="https://github.com/cybernahid-dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto: githubnahid@gmail.com@"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:githubnahid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 > “Code is like humor. When you have to explain it, it’s bad.” – **Cory House**

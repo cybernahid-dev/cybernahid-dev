@@ -27,21 +27,21 @@ I am a **Cybersecurity Architect** and **Full-Stack Automation Engineer**. My ec
 
 ### 📂 Featured Projects
 
-#### 📺 [StreamX Ultra](https://github.com/YOUR_GITHUB_USERNAME/StreamX-Ultra)
+#### 📺 [StreamX Ultra](https://github.com/AeonCoreX-Lab/StreamX-Ultra)
 > **The Ultimate Future Media Platform.** An all-in-one ecosystem for Live TV, Ultra-Max movies, and high-fidelity music.
 * **Next-Gen Engines:** Built with a custom **Torrent Engine** for direct streaming and **MPV/ExoPlayer** for zero-latency playback.
 * **Audio:** Futuristic music system mimicking the **Spotify** experience.
 * **Tech:** `Kotlin`, `Jetpack Compose`, `C++`, `Rust`, `Firebase`.
 
-#### 🤖 [Astra AI](https://github.com/YOUR_GITHUB_USERNAME/Astra)
+#### 🤖 [Astra AI](https://github.com/cybernahid-dev/Astra)
 > **Terminal AI Developer Assistant.** Your autonomous coding partner for the shell. It automates coding tasks and interacts with OpenRouter API for real-time debugging.
 * **Tech:** `Python`, `OpenRouter API`.
 
-#### 🛡️ [BCP-CyberSuite](https://github.com/YOUR_GITHUB_USERNAME/BCP-CyberSuite)
+#### 🛡️ [BCP-CyberSuite](https://github.com/cybernahid-dev/BCP-CyberSuite)
 > **Offensive Security Toolkit.** A comprehensive Python-based suite designed for penetration testing, automated vulnerability analysis, and network exploitation.
 * **Tech:** `Python`.
 
-#### 🐚 [BCP-Shell](https://github.com/YOUR_GITHUB_USERNAME/BCP-Shell)
+#### 🐚 [BCP-Shell](https://github.com/cybernahid-dev/bcp-shell)
 > **Power-User Command Shell.** A custom terminal environment optimized for rapid automation and cybersecurity workflows.
 * **Tech:** `Pure Shell Scripting`.
 
@@ -49,12 +49,12 @@ I am a **Cybersecurity Architect** and **Full-Stack Automation Engineer**. My ec
 
 ### 📊 Real-Time GitHub Pulse
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cybernahid-dev &show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybernahid-dev &layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybernahid-dev &theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
@@ -62,8 +62,8 @@ I am a **Cybersecurity Architect** and **Full-Stack Automation Engineer**. My ec
 ### 📫 Let's Connect
 
 <p align="left">
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/cybernahid-dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto: githubnahid@gmail.com@"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 > “Code is like humor. When you have to explain it, it’s bad.” – **Cory House**

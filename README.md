@@ -48,17 +48,21 @@ I am a **Cybersecurity Architect** and **Full-Stack Automation Engineer**. My ec
 ---
 
 ### 📊 Real-Time GitHub Pulse
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cybernahid-dev&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Nahid's GitHub Stats" />
-  
-  <img width="47%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cybernahid-dev&layout=compact&theme=tokyonight&hide_border=false" alt="Nahid's Top Languages" />
+  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cybernahid-dev&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Nahid's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybernahid-dev&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img width="80%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cybernahid-dev&layout=compact&theme=tokyonight&hide_border=false" alt="Nahid's Top Languages" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=cybernahid-dev&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
+
 
 
 ### 📫 Let's Connect

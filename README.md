@@ -1,59 +1,65 @@
 # ⚡ Welcome to Nahid's Digital Command Center ⚡
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&width=435&lines=Cybersecurity+Expert;Open-Source+Developer;Automation+%26+AI+Architect;Building+the+Future+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FF&width=500&lines=Cybersecurity+Expert;Open-Source+Developer;Automation+%26+AI+Architect;Building+Future+Systems" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🔭 The Mission
-I am a **Cybersecurity Architect** and **Full-Stack Automation Engineer** dedicated to building high-performance, open-source tools. My work sits at the intersection of AI-driven automation and robust security frameworks.
+I am a **Cybersecurity Architect** and **Full-Stack Automation Engineer**. My ecosystem focuses on high-performance media engines, terminal-based AI, and offensive security toolkits.
 
-* **🌱 Current Focus:** Scaling **StreamX Ultra** and refining **Astra's** AI reasoning.
+* **🌱 Current Focus:** Engineering the **StreamX Ultra** ecosystem and hardening **BCP-CyberSuite**.
 * **🚀 Philosophy:** "Automate the mundane to engineer the extraordinary."
-* **💻 OS Environment:** Primarily **Termux**, **Linux**, and **Android**.
+* **💻 Dev Environment:** **Termux**, **Linux**, and **Android Shell**.
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Arsenal & Tech Stack
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
-| **Backend & AI** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![OpenRouter](https://img.shields.io/badge/OpenRouter-API-blueviolet?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
-| **Cybersecurity** | ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square) ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square) ![PenTesting](https://img.shields.io/badge/PenTesting-RedTeam-red?style=flat-square) |
+| **Core Languages** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **UI & Engines** | ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white) ![ExoPlayer](https://img.shields.io/badge/ExoPlayer-FF6F00?style=flat-square) ![MPV](https://img.shields.io/badge/MPV_Engine-000000?style=flat-square) |
+| **Cloud & AI** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![OpenRouter](https://img.shields.io/badge/OpenRouter_API-blueviolet?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
 
 ---
 
 ### 📂 Featured Projects
 
 #### 📺 [StreamX Ultra](https://github.com/YOUR_GITHUB_USERNAME/StreamX-Ultra)
-> **Next-Gen IPTV Ecosystem.** A full-featured streaming platform with automated M3U8 updates and Firebase synchronization.
-* **Tech:** Python, Firebase, IPTV Protocols.
+> **The Ultimate Future Media Platform.** An all-in-one ecosystem for Live TV, Ultra-Max movies, and high-fidelity music.
+* **Next-Gen Engines:** Built with a custom **Torrent Engine** for direct streaming and **MPV/ExoPlayer** for zero-latency playback.
+* **Audio:** Futuristic music system mimicking the **Spotify** experience.
+* **Tech:** `Kotlin`, `Jetpack Compose`, `C++`, `Rust`, `Firebase`.
 
 #### 🤖 [Astra AI](https://github.com/YOUR_GITHUB_USERNAME/Astra)
-> **Terminal-based AI Developer.** Your autonomous coding partner using OpenRouter API to write, debug, and optimize code directly from the shell.
-* **Tech:** Python, JavaScript, OpenRouter API.
+> **Terminal AI Developer Assistant.** Your autonomous coding partner for the shell. It automates coding tasks and interacts with OpenRouter API for real-time debugging.
+* **Tech:** `Python`, `OpenRouter API`.
 
 #### 🛡️ [BCP-CyberSuite](https://github.com/YOUR_GITHUB_USERNAME/BCP-CyberSuite)
-> **Offensive Security Toolkit.** A comprehensive suite for vulnerability analysis, network exploitation, and automated reporting.
-* **Tech:** Rust, C++, Python.
+> **Offensive Security Toolkit.** A comprehensive Python-based suite designed for penetration testing, automated vulnerability analysis, and network exploitation.
+* **Tech:** `Python`.
 
 #### 🐚 [BCP-Shell](https://github.com/YOUR_GITHUB_USERNAME/BCP-Shell)
-> **The Power User's Environment.** A custom, hardened shell designed for cybersecurity workflows and rapid script execution.
-* **Tech:** Kotlin, Shell Scripting.
+> **Power-User Command Shell.** A custom terminal environment optimized for rapid automation and cybersecurity workflows.
+* **Tech:** `Pure Shell Scripting`.
 
 ---
 
-### 📊 GitHub Pulse
+### 📊 Real-Time GitHub Pulse
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 📫 Let's Connect
 
 <p align="left">
 <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
